@@ -32,6 +32,6 @@ This repository supports analyses such as:
 
 ---
 
-## Repository layout (example)
+
 
 
