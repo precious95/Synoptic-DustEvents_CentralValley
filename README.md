@@ -5,9 +5,9 @@ Data is available at https://zenodo.org/records/19604361
 
 This repository supports analyses such as:
 - dust observation → station event → regional “dusty day” summaries  
-- seasonal/diurnal statistics (SON focus, etc.)
-- synoptic pattern classification (e.g., SOM/clustering on Z500/SLP fields)
-- hydroclimate context (precipitation onset, soil moisture, drought categories)
+- seasonal/diurnal statistics 
+- synoptic pattern classification (e.g., SOM/clustering on Z500)
+- hydroclimate context (precipitation onset and drought categories)
 
 ---
 
@@ -22,13 +22,12 @@ This repository supports analyses such as:
   3) **regional dusty days** (any local day with ≥1 station reporting dust)
 
 **Synoptic classification**
-- Builds daily synoptic fields (e.g., Z500, SLP, winds) for dusty days
+- Builds daily synoptic fields (e.g., Z500, surfcae wind speed, soil moisture) for dusty days
 - Classifies patterns using SOM / clustering
 - Produces composites and significance tests
 
-**Hydroclimate linkages (optional modules)**
+**Hydroclimate linkages**
 - Rainfall onset metrics using GridMET precipitation (spatial coverage onset)
-- Soil moisture categories (dry / near-normal / wet by terciles)
 - Drought categories (e.g., SPEI-based)
 
 ---
