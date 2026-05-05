@@ -1,7 +1,7 @@
 # Synoptic-DustEvents_CentralValley
 
 Code and workflows for identifying Central Valley dust events from surface observations and linking them to synoptic-scale circulation patterns.
-Data is available at https://zenodo.org/records/19604361
+Data is available at https://doi.org/10.6084/m9.figshare.32049018
 
 This repository supports analyses such as:
 - dust observation → station event → regional “dusty day” summaries  
