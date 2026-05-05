@@ -1,7 +1,7 @@
 #--------------THE DUST DETECTION CODE points us to where dust is []
 #------------ note: we had to check manually to confirm those dates by cross-referencing with NWS report, satellite imagery, screening for MIST before any dust report
 #----------- use this to find dust observations, but confirm the dates with extra sources, 
-
+# Author Precious Ebiendele
 library(dplyr)
 library(ggplot2)
 library(lubridate)
